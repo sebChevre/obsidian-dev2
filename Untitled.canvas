@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a79d67a0edc1d944","x":-85,"y":98,"width":400,"height":400,"type":"file","file":"/RESOURCES/README.md"},
+		{"id":"b431e78dfdc97e39","x":-20,"y":-60,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"ebd9992d69779008","fromNode":"b431e78dfdc97e39","fromSide":"bottom","toNode":"a79d67a0edc1d944","toSide":"top"}
+	]
+}
