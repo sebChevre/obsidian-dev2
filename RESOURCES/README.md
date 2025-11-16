@@ -1,1 +1,1 @@
-Sujet divers d'intérêt divers
+Sujet divers d'intérêts divers
