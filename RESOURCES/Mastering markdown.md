@@ -2,19 +2,19 @@
 ## Fenêtre de codes/commandes
 
 #### bash
-syntaxe:
+Syntaxe:
 ````plaintext
 ```bash
 curl -X POST -is "http://localhost:4242/create-checkout-session" -d ""
 ```
 ````
-résultat:
+Résultat:
 ```bash
 curl -X POST -is "http://localhost:4242/create-checkout-session" -d ""
 ```
 
 #### javascript
-syntaxe:
+Syntaxe:
 ````plaintext
 ```JavaScript=
 function foo(bar) {
@@ -24,7 +24,7 @@ function foo(bar) {
 }
 ```
 ````
-résultat:
+Résultat:
 ```javaScript
 function foo(bar) {
   var a = 42,
@@ -34,7 +34,7 @@ function foo(bar) {
 ```
 
 #### HTML
-syntaxe:
+Syntaxe:
 ````plaintext
 ```html
 <html>
@@ -51,7 +51,7 @@ syntaxe:
 ```
 ````
 
-résultat:
+Résultat:
 ```html
 <html>
   <head>
@@ -67,7 +67,7 @@ résultat:
 ```
 
 #### Structure hiérarchique
-syntaxe:
+Syntaxe:
 ````plaintext
 ```treeview
 ├── fonts/
@@ -102,7 +102,55 @@ Résultat:
     └── app.scss
 ```
 
-
-
+## Alertes
+#### Note
+Syntaxe:
+````plaintext
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
+````
+Résultat:
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+#### Tip
+Syntaxe:
+```?plaintext
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+````
+Résultat:
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+Egalement avec `!IMPORTANT`, `!WARNING`, `!CAUTION`.
+
+## Note
+
+Syntaxe:
+```plaintext
+> **Note**\
+> This is a note
+```
+
+Résultat:
+> **Note**  
+> This is a note
+
+
+## Icônes
+
+⚠️ warning
+
+##### Liens sur site icône md
+- https://gist.github.com/rxaviers/7360908
+- https://www.flaticon.com/free-icons/markdown
+
+## SVG
+
+##### Liens site icône svg
+- https://iconsear.ch/search.html
+- https://www.svgrepo.com/
+
+
