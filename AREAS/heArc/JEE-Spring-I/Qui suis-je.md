@@ -4,7 +4,7 @@ tags:
   - he-arc
   - spring-i
 ---
-## Chèvre Sébastien
+onen## Chèvre Sébastien
 
 - _**Responsable Domaine Architecture**_ (CTO) au Service Informatique de la république et Canton du Jura (SDI)
 
