@@ -12,7 +12,6 @@ tags:
 
 - Vous aurez **les bons reflexes** en terme d’architecture logicielle
 
-
 - Vous saurez ce que sont **les micro-service**
 
 - Vous serez capable d’implémenter une **architecture micro-service**
