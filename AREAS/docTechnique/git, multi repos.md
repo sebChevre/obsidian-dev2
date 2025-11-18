@@ -1,3 +1,7 @@
+---
+tags:
+  - git
+---
 
 # ✅ **Solution 1 : Utiliser plusieurs remotes dans le même repository Git**
 

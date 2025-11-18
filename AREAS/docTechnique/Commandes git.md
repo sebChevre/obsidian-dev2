@@ -1,3 +1,10 @@
+---
+tags:
+  - git
+  - technique
+---
+
+
 ## Opérations de bases
 
 * **Initialisation**  
