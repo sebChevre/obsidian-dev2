@@ -1,8 +1,3 @@
-Oui, c’est **possible**, mais **pas directement** via une option intégrée simple dans le plugin _Obsidian Git_.  
-Le plugin ne supporte **qu’un seul remote par défaut** (`origin`).  
-Cependant, il existe **deux solutions** pour pousser vers plusieurs dépôts distants.
-
----
 
 # ✅ **Solution 1 : Utiliser plusieurs remotes dans le même repository Git**
 
