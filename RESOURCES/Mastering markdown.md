@@ -1,4 +1,8 @@
-
+---
+created: 2025-11-18 - 20:42
+tags:
+  - md
+---
 ## Fenêtre de codes/commandes
 
 #### bash
