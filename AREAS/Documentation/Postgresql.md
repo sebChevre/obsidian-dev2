@@ -21,9 +21,12 @@ CREATE TABLE documents (
 ```
 
 ```sql
+
+CREATE EXTENSION IF NOT EXISTS "pgcrypto";
+
 CREATE TABLE chat_memory (
     id SERIAL PRIMARY KEY,
-    session_id TEXT NOT NULL,
+    session_id UUID NOT NULL DEFAULT gen_random_uuid(),
     created_at TIMESTAMP DEFAULT NOW(),
     isActive BOOLEAN DEFAULT TRUE
 );
