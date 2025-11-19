@@ -14,8 +14,11 @@ tags:
 CREATE TABLE documents (
     id SERIAL PRIMARY KEY,
     content TEXT NOT NULL,
+    file_name TEXT NOT NULL,
     obsidian_path TEXT NOT NULL,
     embedding VECTOR(3584)
 );
 ```
+
+### Supression de la table
 
