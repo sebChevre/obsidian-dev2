@@ -8,3 +8,9 @@ Thumbs.db
 
 obsidian-git.json
 
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
