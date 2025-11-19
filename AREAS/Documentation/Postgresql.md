@@ -20,6 +20,15 @@ CREATE TABLE documents (
 );
 ```
 
+```sql
+CREATE TABLE chat_memory (
+  session_id TEXT,
+  role TEXT,
+  content TEXT,
+  created_at TIMESTAMP DEFAULT NOW()
+);
+```
+
 ### Ajout extension `vector`
 ```sql
 CREATE EXTENSION IF NOT EXISTS vector;
