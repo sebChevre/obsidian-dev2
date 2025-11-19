@@ -51,3 +51,9 @@ CREATE EXTENSION IF NOT EXISTS vector;
 DROP TABLE documents;
 ```
 
+### Requêtes diverses
+
+```sql
+UPDATE chat_memory SET isactive = FALSE
+
+```
