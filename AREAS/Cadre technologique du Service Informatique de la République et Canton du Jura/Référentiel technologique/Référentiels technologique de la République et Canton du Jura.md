@@ -3,4 +3,4 @@ Le référentiel technologique de la république et Canton du Jura à pour but d
 
 Les éléments composants ce référentiel sont illustré par les différentes couches architecturales décrites ci-dessous:
 
-![[Untitled Diagram.svg]]
+![[AREAS/Cadre technologique du Service Informatique de la République et Canton du Jura/Référentiel technologique/Untitled Diagram.svg]]

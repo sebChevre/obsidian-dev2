@@ -24,7 +24,8 @@ CREATE TABLE documents (
 CREATE TABLE chat_memory (
     id SERIAL PRIMARY KEY,
     session_id TEXT NOT NULL,
-    created_at TIMESTAMP DEFAULT NOW()
+    created_at TIMESTAMP DEFAULT NOW(),
+    isActive BOOLEAN DEFAULT TRUE
 );
 
 CREATE TABLE chat_message (
