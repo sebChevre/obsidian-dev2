@@ -1,3 +1,8 @@
+---
+created: 2025-11-19 - 18:16
+tags:
+  - zippo
+---
 - mise à jour liste entreprise
 - import_anapol, correction clé fk type_mesure, et ajout ramoneur fk
 - update installation (forcer la valeur boolèenne)
