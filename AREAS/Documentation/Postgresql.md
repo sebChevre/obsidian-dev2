@@ -22,3 +22,7 @@ CREATE TABLE documents (
 
 ### Supression de la table
 
+```sql
+DROP TABLE documents;
+```
+
