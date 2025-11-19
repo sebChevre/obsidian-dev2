@@ -20,6 +20,11 @@ CREATE TABLE documents (
 );
 ```
 
+### Ajout extension `vector`
+```sql
+CREATE EXTENSION IF NOT EXISTS vector;
+```
+
 ### Supression de la table
 
 ```sql
