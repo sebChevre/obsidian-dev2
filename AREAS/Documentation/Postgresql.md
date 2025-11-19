@@ -22,10 +22,17 @@ CREATE TABLE documents (
 
 ```sql
 CREATE TABLE chat_memory (
-  session_id TEXT,
-  role TEXT,
-  content TEXT,
-  created_at TIMESTAMP DEFAULT NOW()
+    id SERIAL PRIMARY KEY,
+    session_id TEXT NOT NULL,
+    created_at TIMESTAMP DEFAULT NOW()
+);
+
+CREATE TABLE chat_message (
+    id SERIAL PRIMARY KEY,
+    chat_memory_id INT REFERENCES chat_memory(id) ON DELETE CASCADE,
+    role TEXT NOT NULL,
+    content TEXT NOT NULL,
+    created_at TIMESTAMP DEFAULT NOW()
 );
 ```
 
