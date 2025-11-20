@@ -1,0 +1,5 @@
+nav:
+  - Cloud Computing: index.md
+  - Caractéristiques: cloud_nist.md
+  - Dimensions: cloud_dimensions.md
+  - Cloud hybride: cloud_hybride.md

@@ -1,0 +1,35 @@
+nav:
+  - Cadre technologique: cadre
+  
+  - Vision: 
+    - Formalisation: vision_si/formalisation.md
+    - Impacts: vision_si/impacts.md
+    - Roadmap: vision_si/roadmap.md
+    - Checklist: vision_si/checklist_cloud.md
+    - Cloud: vision_si/cloud
+
+  - Axes Technologiques: axes
+
+  - Référentiel:
+    - Modèle: referentiel/structure.md
+    - Radar Technologique: "http://tpbe.defined"
+
+    - Domaine Technologiques:
+      - Description : referentiel/description.md
+      - Infrastructure: infrastructure
+      - Middlewares: middleware
+      - Plateforme et Solutions Métier: metiers
+      - End Users: endusers
+
+    - Types: types
+    
+    - Status: status
+      
+    - Index: index
+    
+  - Présentations/Documentation: 
+      - Présentations: presentations/presentations.md
+      - Containerisaton: presentations/containerisation.md
+      - Workshops équipes: presentations/workshops
+   
+
