@@ -5,7 +5,6 @@ tags:
 ---
 
 
-Oui — tout à fait. Selon le ton que tu veux donner au cadre technologique, voici plusieurs **alternatives à “principes”**, avec nuances d’usage :
 
 |Terme|Sens / nuance|Pertinence pour ton contexte|
 |---|---|---|
